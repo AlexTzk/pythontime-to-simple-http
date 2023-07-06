@@ -1,4 +1,5 @@
 ## Description
+Will print time in python as displayed in the python console and output it to a Flask web application. Multiple deployment options from a local docker-compose all the way to GCP Terraform deployment with Helm and K8s and autoscaling prebuilt into it. 
 
 ### [App]
 
